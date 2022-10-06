@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gau54454d50
 - 👀 I’m interested in Embedded Design 
-- 🌱 I’m currently learning RTOS, Contiki 
+- 🌱 I’m currently learning embedded C on MSP430 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
